@@ -3,9 +3,11 @@ h3 {
 }
 
 img {
-
+   inline-size: auto;
+   size: 10em;
 }
 
 .photos {
-   text-align: center;
+   height: fit-content;
+   width: fit-content;
 }

@@ -1,0 +1,11 @@
+ul{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: larger;
+    color:indigo;
+    font-style: italic;
+}
+
+h3{
+    text-underline-position: auto;
+    color: burlywood;
+}
